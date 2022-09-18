@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oOFLhC14smtAD8iNs3f7ZzX1Kz8wwiMCsVFaz+Lf2SU=",
+  "Source": "InvoiceManagementApp.UI",
+  "BasePath": "_content/InvoiceManagementApp.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
